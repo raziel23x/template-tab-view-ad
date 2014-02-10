@@ -1,0 +1,11 @@
+{
+"reponame":"template-tab-view-ad",
+"title":"Tab View App",
+"tooltip":"[App Desiger Ready] This template can be used for simple tab view application that has tabs at the bottom to switch views, this template can be used for creating applications similar to Phone app, Facebook* app or Instagram* app.",
+"description":"[App Desiger Ready] This template can be used for simple tab view application that has tabs at the bottom to switch views, this template can be used for creating applications similar to Phone app, Facebook* app or Instagram* app.",
+"articleUrl":"http://software.intel.com/en-us/html5/articles/templates-to-get-started-with-html5-mobile-app-development",
+"visible" : "true",
+"type":"appdesigner",
+"keywords":["App Designer"],
+"highlights" : ["App Designer"]
+}
